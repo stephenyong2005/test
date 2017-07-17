@@ -1,2 +1,2 @@
 # test
-A test repository
+A test repository, do not use this repository.
